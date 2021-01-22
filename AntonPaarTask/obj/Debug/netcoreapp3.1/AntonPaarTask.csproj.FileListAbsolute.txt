@@ -1,0 +1,13 @@
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\obj\Debug\netcoreapp3.1\AntonPaarTask.csprojAssemblyReference.cache
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\obj\Debug\netcoreapp3.1\AntonPaarTask.AssemblyInfoInputs.cache
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\obj\Debug\netcoreapp3.1\AntonPaarTask.AssemblyInfo.cs
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\obj\Debug\netcoreapp3.1\AntonPaarTask.csproj.CoreCompileInputs.cache
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\bin\Debug\netcoreapp3.1\AntonPaarTask.exe
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\bin\Debug\netcoreapp3.1\AntonPaarTask.deps.json
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\bin\Debug\netcoreapp3.1\AntonPaarTask.runtimeconfig.json
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\bin\Debug\netcoreapp3.1\AntonPaarTask.runtimeconfig.dev.json
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\bin\Debug\netcoreapp3.1\AntonPaarTask.dll
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\bin\Debug\netcoreapp3.1\AntonPaarTask.pdb
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\obj\Debug\netcoreapp3.1\AntonPaarTask.dll
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\obj\Debug\netcoreapp3.1\AntonPaarTask.pdb
+C:\Users\kelho\source\repos\AntonPaarTask\AntonPaarTask\obj\Debug\netcoreapp3.1\AntonPaarTask.genruntimeconfig.cache
